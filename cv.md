@@ -15,6 +15,8 @@ I am design lover, code writing enthusiast with project management experience. I
 - Git
 
 **Code Example**
->function square(number) {
->  return number * number;
->}
+```
+function square(number) {
+    return number * number;
+}
+```
